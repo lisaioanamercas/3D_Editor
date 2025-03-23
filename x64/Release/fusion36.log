@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Elisa\source\repos\fusion36\fusion36\main.cpp(132,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 620 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  fusion36.vcxproj -> C:\Users\Elisa\source\repos\fusion36\x64\Release\fusion36.exe

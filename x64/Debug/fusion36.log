@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Elisa\source\repos\fusion36\fusion36\main.cpp(85,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Elisa\source\repos\fusion36\fusion36\main.cpp(85,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  mainMenu.cpp
+  Generating Code...
+  fusion36.vcxproj -> C:\Users\Elisa\source\repos\fusion36\x64\Debug\fusion36.exe
